@@ -6,7 +6,7 @@ A modern, AI-powered web application that helps you create professional, ATS-fri
 
 ## 🌐 Live Demo
 
-**Deployed on Render:** [https://ats-friendly-rseume-builder-1.onrender.com/](https://ats-friendly-rseume-builder-1.onrender.com/)
+
 
 ---
 
@@ -187,7 +187,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## 👨‍💻 Author
 
 **Vaibhav Gupta**  
-📧 work.vaibhav06@gmail.com
+📧 bajpaivaibhav8081@gmail.com
 
 ---
 
