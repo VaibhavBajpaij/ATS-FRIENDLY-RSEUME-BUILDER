@@ -1,0 +1,22 @@
+{
+  "name": "resume-builder",
+  "description": "Free ATS-Friendly Resume Builder",
+  "keywords": [
+    "resume",
+    "cv",
+    "builder",
+    "ats"
+  ],
+  "website": "",
+  "repository": "",
+  "env": {
+    "NODE_ENV": {
+      "description": "Environment for the application",
+      "value": "production"
+    },
+    "PORT": {
+      "description": "Port for the application",
+      "value": "3001"
+    }
+  }
+}
