@@ -186,7 +186,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 👨‍💻 Author
 
-**Vaibhav Gupta**  
+**Vaibhav Bajpai**  
 📧 bajpaivaibhav8081@gmail.com
 
 ---
